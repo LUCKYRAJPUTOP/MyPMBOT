@@ -1,14 +1,14 @@
 # PMBOT 
 
-# [![✨](https://telegra.ph/file/82eeadb54342995110903.jpg)](https://t.me/LbjiBot) <br>THIS IS MY BOT 
+# [![✨](https://te.legra.ph/file/fa3800791925bc48ee698.jpg)](https://t.me/LbjiBot) <br>THIS IS MY BOT 
 
-## Find ON [TELEGRAM](https://t.me/LbjiBot)<br>BY CLICKING ON PICTURE
+## Find ON [TELEGRAM](https://t.me/ItsMeLuckyRajput)<br>BY CLICKING ON PICTURE
 ```python3
 READ CODES
 only for Learning purpose  
 
-All © reserved by @Alone_loverboy
+All © Reserved By @ItsMeLuckyRajput
 
 ```
-# ~ [Psycho_Bots](https://t.me/Psycho_Bots)
-# ~ [Alone_loverBoy](https://t.me/Alone_loverboy)
+# ~ [Request Material](https://t.me/RequestMaterial)
+# ~ [Requested Material](https://t.me/RequestedMaterial)
