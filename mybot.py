@@ -44,7 +44,7 @@ pm = TelegramClient("lover", API_ID, API_HASH).start(bot_token=TOKEN)
 
  
 # <----Setup Finished----> #
-# <i> © @Alone_loverboy <i/> #
+# <i> © @ItzMeAnshulRajput <i/> #
 
 text = f"""
 H! ✨
@@ -59,7 +59,7 @@ __Follow HIM IN INSTAGRAM AND TWITTER 😁🤩__\n
 SOCIAL = f"""
 H!👀 Welcome To Social menu 
 {USERNAME} social media Is here✨
-• You can follow **TWITTER**& **Instagram**
+• You can follow **TelegramChannel**& **Instagram**
 """
 
 TELE = """
@@ -82,7 +82,7 @@ async def start(event):
               ],
               [Button.inline("HELP for my github project", data="gith")
               ],
-              [Button.url("♠️Itz_Loverboy♠️", url="https://t.me/itz_loverboy")
+              [Button.url("♠️Itz_AnshulRajput♠️", url="https://t.me/itzmeanshulrajput")
             ]
           ],
             link_preview=True)
@@ -92,9 +92,9 @@ async def start(event):
 @pm.on(events.callbackquery.CallbackQuery(data="social"))
 async def social(event): 
       await event.edit(SOCIAL, buttons=[
-            [Button.url("Instagram", url="https://instagram.com/mesterious.person")
+            [Button.url("Instagram", url="https://instagram.com/ItzMeLuckyRajput")
             ],
-            [Button.url("Twitter", url="https://twitter.com/A_Modern_Mind")],
+            [Button.url("OfficialChannel", url="https://t.me/ItsMeLuckyRajput")],
             [Button.inline("Back🚶", data="ok")],
             ])
             
@@ -105,12 +105,12 @@ async def social(event):
 @pm.on(events.callbackquery.CallbackQuery(data="tele"))
 async def tele(event):
       await event.edit(TELE, buttons=[
-            [Button.url("PsychoBots", url="https://t.me/Psycho_Bots"),
-             Button.url("Chatting Group", url="https://t.me/Astro_Spam")
+            [Button.url("Request Material", url="https://t.me/RequestMaterial"),
+             Button.url("Chatting Group", url="https://t.me/RequestMaterialChats")
             ],
             [
-             Button.url("Quotes✍️", url="https://t.me/Itz_loverboy"),
-             Button.url("UserBoT", url="http://t.me/Astro_UserBot")],
+             Button.url("Quotes✍️", url="https://t.me/ItzMeLuckyRajput"),
+             Button.url("Requested Material", url="http://t.me/RequestedMaterial")],
              [Button.inline("Back🚶", data="ok")]
              ])
            
@@ -155,7 +155,7 @@ async def ok(event):
               ],
               [Button.inline("HELP for my github project", data="gith")
               ],
-              [Button.url("♠️Itz_Loverboy♠️", url="https://t.me/itz_loverboy")
+              [Button.url("♠️ ItzMeLuckyRajput ♠️", url="https://t.me/ItsMeLuckyRajput")
             ]
           ],
             link_preview=True)
@@ -164,7 +164,7 @@ async def ok(event):
    
 @pm.on(events.NewMessage(pattern="/ask"))
 async def ask(event):
-    await event.reply(f"Hey\nThis is Lovers Personal bot😄\n\nUse ask | Your queries\n use that format and my master will reply you soon through me🙂be patience till😄\nDon't Send Media🙂")
+    await event.reply(f"Hey\nThis is Lucky's Personal bot😄\n\nUse ask | Your queries\n use that format and my master will reply you soon through me🙂be patience till😄\nDon't Send Media🙂")
     
 ### PING ## 
 
