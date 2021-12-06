@@ -187,7 +187,7 @@ async def ping(event):
 丶　つ０
  しーＪ
  
-**❦𝙼𝚈 𝙿𝚁𝙾 𝙼𝙰𝚂𝚃𝙴𝚁❦ **→ [🂡『𝄞⃝Ⱡⓞꪜє℟ ♪⃝⃤B͛Ꮻ𝐘』🂡](https://t.me/Alone_loverboy)
+**❦𝙼𝚈 𝙿𝚁𝙾 𝙼𝙰𝚂𝚃𝙴𝚁❦ **→ [🂡『🎀𝐿𝓊𝒸𝓀𝓎 𝑅𝒶𝒿𝓅𝓊𝓉🎀』🂡](https://t.me/ItzMeAnshulRajput)
 """, 
 link_preview=False
 )
@@ -202,7 +202,7 @@ async def _(event):
 
 @pm.on(events.NewMessage(pattern="/about"))
 async def about(event):
-    await event.reply(f"H!✨\nYou wanna to know About me😂? read Below\n\nABOUT @{USERNAME}:-\n •My name:- Dev Adarsh pandit🇮🇳\n •My age:- Unknown🙂\n •Computer language:- Web development(learning), Python more soon😁\n•I am a quotes writer too•🤤\ncheck [Itz_LoverBoy](https://t.me/Itz_loverboy) For More",
+    await event.reply(f"H!✨\nYou wanna to know About me😂? read Below\n\nABOUT @{USERNAME}:-\n •My Name :- Lucky Rajput🇮🇳\n •My Age:- Unknown🙂\n •Computer language:- Web Development (Learning), Python More soon😁\n•I Am A Quotes Writer Too•🤤\ncheck [ItsMeLuckyRajput](https://t.me/ItzMeLuckyRajput) For More",
     link_preview=False 
     )
     
@@ -232,4 +232,4 @@ async def one_new_mssg(event):
 pm.run_until_disconnected()
 
 
-# © @Alone_loverboy
+# © @ItzMeAnshulRajput
