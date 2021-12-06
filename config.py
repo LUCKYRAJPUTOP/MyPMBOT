@@ -6,9 +6,9 @@ class config(object):
   TOKEN = "1979779416:AAExgRiGv4aO0_7rbKjhOx_oOUXtWvKP9zw"
 
 # NO EDITS 
-  PIC = "https://telegra.ph/file/42aa88442d9266468d11a.jpg"
-  OWNER_USERNAME = "Alone_loverboy"
-  OWNER_ID = 1258905497 
+  PIC = "https://te.legra.ph/file/fa3800791925bc48ee698.jpg"
+  OWNER_USERNAME = "ItzMeAnshulRajput"
+  OWNER_ID = 1993514215 
   DB_URI = os.environ.get("DATABASE_URL", None)
 
 # My account configuration
