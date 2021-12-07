@@ -1,9 +1,9 @@
 import os 
 
 class config(object):
-  API_ID = 2443790
-  API_HASH = "b00e27babc25c281d2ec18242b5b6760"
-  TOKEN = "1979779416:AAExgRiGv4aO0_7rbKjhOx_oOUXtWvKP9zw"
+  API_ID = 3748059
+  API_HASH = "f8c9df448f3ba20a900bc2ffc8dae9d5"
+  TOKEN = "5021467775:AAFIb_5TSHfqzT13PvUvDMH_ryRcFHYndEk"
 
 # NO EDITS 
   PIC = "https://te.legra.ph/file/fa3800791925bc48ee698.jpg"
